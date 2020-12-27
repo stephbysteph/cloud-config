@@ -1,0 +1,4 @@
+user:
+    role: Developer
+server
+    port: 8085
